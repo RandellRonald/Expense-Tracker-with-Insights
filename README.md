@@ -2,7 +2,7 @@
 
 A fast, production-ready personal finance tracker that explains your spending behavior instead of just showing numbers. Built with **Vanilla JS**, **HTML5**, **CSS3**, and **IndexedDB**.
 
-![Dashboard Screenshot](./screenshot.png)
+
 
 ## Features
 
